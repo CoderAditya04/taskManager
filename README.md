@@ -14,7 +14,6 @@ Task Manager is a web application built with React and styled using Tailwind CSS
 
 - React: A JavaScript library for building user interfaces.
 - Tailwind CSS: A utility-first CSS framework for quickly styling the application.
-- [Any other technologies you may have used]
 
 ## Getting Started
 
